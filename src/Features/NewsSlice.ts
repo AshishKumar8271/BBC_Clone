@@ -21,7 +21,7 @@ const initialState:NewsState = {
 
 export const fetchNewsData = createAsyncThunk("user/fetchNewsData",async (menu:string) => {
 
-    const res = await fetch(`https://newsapi.org/v2/everything?q=${menu}&pageSize=100&apiKey=${import.meta.env.VITE_News_API_KEY}`, {
+    const res = await fetch(`https://newsapi.org/v2/everything?q=${menu}&pageSize=100&apiKey=${import.meta.env.VITE_NEWS_API_KEY}`, {
         method: 'GET',
         headers: {
           'Accept': 'application/json'
