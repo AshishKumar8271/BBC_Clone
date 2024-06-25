@@ -1,0 +1,1346 @@
+{"status": "ok",
+  "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "David Gilbert",
+      "title": "Neo-Nazis Are All-In On AI",
+      "description": "Extremists are developing their own hateful AIs to supercharge radicalization and fundraising—and are now using the tech to make weapon blueprints and bombs. And it’s going to get worse.",
+      "url": "https://www.wired.com/story/neo-nazis-are-all-in-on-ai/",
+      "urlToImage": "https://media.wired.com/photos/667211650f046d6ed8302191/191:100/w_1280,c_limit/politics_neonazi_extremist_ai_radicalization.jpg",
+      "publishedAt": "2024-06-20T09:00:00Z",
+      "content": "Extremists across the US have weaponized artificial intelligence tools to help them spread hate speech more efficiently, recruit new members, and radicalize online supporters at an unprecedented spee… [+3092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Karissa Bell",
+      "title": "Meta makes the Threads API available to all developers",
+      "description": "Meta is finally making the Threads API available\r\n to developers. The company began testing the developers tools with a handful of companies back in March\r\n, but is now throwing the door open to more creators and app makers.\nFor now, the Threads API functiona…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8b15e26d-3325-44cb-9b53-d0c851fbca97",
+      "urlToImage": null,
+      "publishedAt": "2024-06-18T17:49:46Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Geoffrey Bunting",
+      "title": "Summer Game Fest 2024: all the news, trailers, and announcements",
+      "description": "Summer Game Fest 2024 kicks off on Friday, June 7th, at 5PM ET. Geoff Keighley will host a presentation showing off the latest video game gameplay videos, trailers, and announcements.",
+      "url": "https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-DrgOJc7zn11NWyi2sIcrKWj5Vw=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25476338/SGF_2024_1920x1080__1_.jpg",
+      "publishedAt": "2024-06-07T20:00:00Z",
+      "content": "Filed under:\r\nByAsh Parrish, a reporter who covers the business, culture, and communities of video games, with a focus on marginalized gamers and writing about the intersection of video games and sex… [+3983 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "Top news app caught sharing “entirely false” AI-generated news",
+      "description": "Most downloaded local news app adds disclaimer that it's not always \"error-free.\"",
+      "url": "https://arstechnica.com/tech-policy/2024/06/top-news-app-caught-sharing-fake-ai-news-based-on-ai-summaries/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-1207047876-760x380.jpg",
+      "publishedAt": "2024-06-05T20:57:37Z",
+      "content": "20\r\nAfter the most downloaded local news app in the US, NewsBreak, shared an AI-generated story about a fake New Jersey shooting last Christmas Eve, New Jersey police had to post a statement online t… [+3403 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "BeauHD",
+      "title": "Apple News+ Subscription Growth Blows Away Major Media Sites",
+      "description": "David Snow reports via Cult of Mac: A new report from Consumer Intelligence Research Partners (CIRP) shows Apple News+ growing its subscription rate about four times as fast as major news sites are. CIRP showed Apple increased its News+ subscriptions in the U…",
+      "url": "https://news.slashdot.org/story/24/05/31/0135232/apple-news-subscription-growth-blows-away-major-media-sites",
+      "urlToImage": "https://a.fsdn.com/sd/topics/media_64.png",
+      "publishedAt": "2024-05-31T10:00:00Z",
+      "content": "A new report from Consumer Intelligence Research Partners (CIRP) shows Apple News+ growing its subscription rate about four times as fast as major news sites are. CIRP showed Apple increased its News… [+857 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "EditorDavid",
+      "title": "How Google Will Distribute $100 Million to Canada's News Companies",
+      "description": "In November Google agreed to pay Canadian news publishers $100 million annually \"in order to be exempt from the Online News Act, which compels tech companies to enter into agreements with news publishers,\" writes the Canadian Press. \n\nOn Friday Google \"named …",
+      "url": "https://tech.slashdot.org/story/24/06/08/2035253/how-google-will-distribute-100-million-to-canadas-news-companies",
+      "urlToImage": "https://a.fsdn.com/sd/topics/topicgoogle_fb.gif",
+      "publishedAt": "2024-06-09T15:34:00Z",
+      "content": "In November Google agreed to pay Canadian news publishers $100 million annually \"in order to be exempt from the Online News Act, which compels tech companies to enter into agreements with news publis… [+1814 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "British editor backs out of top Washington Post job",
+      "description": "The news comes amid turmoil at the storied US newspaper after leadership changes made by British publisher Will Lewis.",
+      "url": "https://www.bbc.com/news/articles/c3gg44v0ww3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/40e6/live/d1bd7b50-2fca-11ef-808e-2b63087e573f.jpg",
+      "publishedAt": "2024-06-21T13:43:00Z",
+      "content": "By Sam Cabral, BBC News, Washington\r\nBritish journalist Robert Winnett will no longer join the Washington Post as editor and instead remain at the Daily Telegraph in London, after controversy at the … [+2599 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "nandika.iyerravi@futurenet.com (Nandika Ravi)",
+      "title": "News Weekly: The first Sonos headphones, Samsung's Unpacked lineup leaks, and more",
+      "description": "A potential Samsung Unpacked lineup, Sonos launches its first ever headphones, Google quickly tries to patch an error in Private Space, iFixit ditches Samsung, and Alexa could be getting an AI upgrade.",
+      "url": "https://www.androidcentral.com/accessories/news-weekly-may-25-2024",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/99856VeUPkeNYDJPT9VRKU-1200-80.jpg",
+      "publishedAt": "2024-05-25T18:10:05Z",
+      "content": "(Image credit: Android Central)\r\nNews Weekly is our column, where we highlight and summarize some of the week's top stories so you can catch up on the latest tech news.\r\nThis is Android Central's New… [+6471 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digiday"
+      },
+      "author": "Digiday Awards",
+      "title": "PATRÓN Tequila, Vaseline and Burger King are shortlisted for the 2024 Future Leader Awards",
+      "description": "The Future Leader Awards, presented by Digiday, Glossy, Modern Retail and WorkLife, recognize the next generation of leaders making significant impacts in their respective industries. This year’s nominees, who were required to have 10 years of professional ex…",
+      "url": "http://digiday.com/media/patron-tequila-vaseline-and-burger-king-are-shortlisted-for-the-2024-future-leader-awards/",
+      "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2023/03/Group-7.png",
+      "publishedAt": "2024-06-11T18:30:00Z",
+      "content": "The Future Leader Awards, presented by Digiday, Glossy, Modern Retail and WorkLife, recognize the next generation of leaders making significant impacts in their respective industries.This years nomin… [+3917 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digiday"
+      },
+      "author": "Digiday Awards",
+      "title": "PATRÓN Tequila, Vaseline and Burger King are shortlisted for the 2024 Future Leader Awards",
+      "description": "The Future Leader Awards, presented by Digiday, Glossy, Modern Retail and WorkLife, recognize the next generation of leaders making significant impacts in their respective industries. This year’s nominees, who were required to have 10 years of professional ex…",
+      "url": "http://digiday.com/announcement/awards/patron-tequila-vaseline-and-burger-king-are-shortlisted-for-the-2024-future-leader-awards/",
+      "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2023/03/Group-7.png",
+      "publishedAt": "2024-06-11T18:30:00Z",
+      "content": "The Future Leader Awards, presented by Digiday, Glossy, Modern Retail and WorkLife, recognize the next generation of leaders making significant impacts in their respective industries.This years nomin… [+3919 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "digiday.com",
+      "title": "?",
+      "description": "This story was first published by Digiday sibling WorkLife Picking what workplace apps to use, keeping them streamlined, training employees on how to use them, and knowing when to introduce a new one is no small responsibility. Sifting the hundreds of thousan…",
+      "url": "https://biztoc.com/x/7080af1c9e78d435",
+      "urlToImage": "https://c.biztoc.com/p/7080af1c9e78d435/s.webp",
+      "publishedAt": "2024-05-31T04:12:05Z",
+      "content": "This story was first published by Digiday sibling WorkLifePicking what workplace apps to use, keeping them streamlined, training employees on how to use them, and knowing when to introduce a new one … [+224 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Como consumidores exigentes estão forçando empresas a serem mais transparentes",
+      "description": "Um grupo crescente de consumidores conscientes tem optado por gastar seu dinheiro com marcas cuja ética está alinhada com a sua.",
+      "url": "https://www.bbc.com/portuguese/articles/c1vwq3zeev9o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/033b/live/ec236170-03cf-11ef-9c0d-4b4b207c6d59.jpg",
+      "publishedAt": "2024-05-26T13:10:57Z",
+      "content": "Crédito, Getty Images\r\nArticle information\u003Cul\u003E\u003Cli\u003EAuthor, Kristen Talman\u003C/li\u003E\u003Cli\u003ERole, BBC Worklife\u003C/li\u003E\u003Cli\u003E\u003C/li\u003E\u003C/ul\u003E\r\nNão é de hoje que os consumidores exercem seu poder de compra para enviar mensa… [+8145 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "digiday.com",
+      "title": "Gen Z, millennials are ‘weak link’ as AI fuels new cyberattack workplace threats",
+      "description": "This story was first published by Digiday sibling WorkLife New research from EY reveals a growing cybersecurity anxiety among U.S. employees, with younger generations particularly vulnerable to sophisticated AI-powered attacks. Experts emphasize the need for …",
+      "url": "https://biztoc.com/x/66e18894c15e0723",
+      "urlToImage": "https://c.biztoc.com/p/66e18894c15e0723/s.webp",
+      "publishedAt": "2024-06-04T04:06:31Z",
+      "content": "This story was first published by Digiday sibling WorkLifeNew research from EY reveals a growing cybersecurity anxiety among U.S. employees, with younger generations particularly vulnerable to sophis… [+234 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.dr.dk"
+      },
+      "author": null,
+      "title": "Præsident erklærer nødsituation efter ultralave fødselstal",
+      "description": "Udviklingen fortsætter med at gå den gale vej trods årevis med milliarddyre tiltag.",
+      "url": "https://www.dr.dk/nyheder/udland/praesident-erklaerer-noedsituation-efter-ultralave-foedselstal",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fwww.dr.dk%2Fimages%2Fother%2F2024%2F06%2F20%2Fscanpix-20240213-021200-2.jpg&w=1200",
+      "publishedAt": "2024-06-20T05:46:00Z",
+      "content": "Worklife balance er blandt løsningerne\r\nFor at løse problemet sætter præsident Yoon Suk Yeol og hans folk alle sejl ind på især tre områder.\r\nDe vil grundlæggende skabe bedre balance mellem arbejde o… [+2978 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Nitish Pahwa",
+      "title": "Everything’s About to Get a Hell of a Lot More Expensive Due to Climate Change",
+      "description": "Intensifying hurricanes, floods, and heat waves are wreaking havoc across the country—and on all of our bank accounts.",
+      "url": "https://www.wired.com/story/everythings-about-to-get-a-hell-of-a-lot-more-expensive-due-to-climate-change/",
+      "urlToImage": "https://media.wired.com/photos/6672c1cb766de1f4b226db93/191:100/w_1280,c_limit/GettyImages-1157251495.jpg",
+      "publishedAt": "2024-06-22T11:00:00Z",
+      "content": "Agricultural yields for important commodities produced in those states (fruits, nuts, corn, sugar, veggies, wheat) are withering, thanks to punishing heat and soil-nutrition depletion. The supply cha… [+3991 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "'I’m One Tap Away From Publishing Your Nudes': 12 Horror Stories About Extortion Attempts on Grindr",
+      "description": "Technology has pushed the world of dating into our phones, those same devices that allow us to take photos and videos we may not want the rest of the world to see. And that tectonic shift in culture has made it much easier to run anonymous extortion scams, wh…",
+      "url": "https://gizmodo.com/grindr-extortion-ftc-foia-horror-stories-lgbtq-dating-1851526931",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/df5ae0df006df19abe5d9eed6d817476.jpg",
+      "publishedAt": "2024-06-13T16:10:00Z",
+      "content": "Technology has pushed the world of dating into our phones, those same devices that allow us to take photos and videos we may not want the rest of the world to see. And that tectonic shift in culture … [+14348 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Emily Stewart",
+      "title": "The latest sign of America's broken work culture: 'quiet vacationing'",
+      "description": "Workers are \"quiet vacationing,\" by going on trips without actually taking time off. It's another sign that America's work culture is truly broken.",
+      "url": "https://www.businessinsider.com/quiet-vacations-work-trends-culture-pto-travel-job-stress-2024-6",
+      "urlToImage": "https://i.insider.com/666b0891764df16112597552?width=1200&format=jpeg",
+      "publishedAt": "2024-06-20T09:57:01Z",
+      "content": "People are going on trips without telling their bosses, and it's a sign of how messed up the American workplace culture can be.akinbostanci/Getty Images; Jenny Chang-Rodriguez/BI\r\nWho among us has no… [+7964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Naked, alone and living on dog food – all for a TV show that gripped a nation",
+      "description": "A new documentary revisits the \"sadistic\" 1990s reality show which preceded Big Brother.",
+      "url": "https://www.bbc.com/news/articles/cz99yr6dq41o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/224f/live/3340ecc0-226c-11ef-80aa-699d54c46324.jpg",
+      "publishedAt": "2024-06-15T00:01:50Z",
+      "content": "By Steven McIntosh, Entertainment reporter\r\nNasubi appeared on Japanese TV in 1998, before The Truman Show and Big Brother\r\nIn 1998, a Japanese man was stripped naked and left alone in an almost-empt… [+8247 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Boeing boss grilled by US lawmakers and victims",
+      "description": "Boeing's CEO defended the company and pledged that it has learned from past mistakes.",
+      "url": "https://www.bbc.com/news/articles/ce77l2xl2r5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4642/live/42bd3720-2db2-11ef-bdc5-41d7421c2adf.jpg",
+      "publishedAt": "2024-06-18T21:41:51Z",
+      "content": "By Caitlin Wilson reporting from Capitol Hill and Max Matza in Seattle, BBC News\r\nBoeing's chief executive Dave Calhoun faced a grilling from US senators about the company's culture as family members… [+3097 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Harvard Business Review"
+      },
+      "author": "Mark C. Bolino, Corey Phelps",
+      "title": "3 Challenges to Hybrid Work — and How to Overcome Them",
+      "description": "Managers struggling to implement hybrid work policies confront three key challenges: scheduling, culture, and productivity. Research into companies allowing employees to be both remote and in-person suggest these obstacles can be overcome. In scheduling, shif…",
+      "url": "https://hbr.org/2024/05/3-challenges-to-hybrid-work-and-how-to-overcome-them",
+      "urlToImage": "https://hbr.org/resources/images/article_assets/2024/05/May24_20_1489523142.jpg",
+      "publishedAt": "2024-05-30T12:05:18Z",
+      "content": "Managers struggling to implement hybrid work policies confront three key challenges: scheduling, culture, and productivity. Research into companies allowing employees to be both remote and in-person … [+351 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "I played a hero in Post Office drama, says Toby Jones",
+      "description": "The actor has been speaking about playing Alan Bates in the ITV drama about the Post Office scandal.",
+      "url": "https://www.bbc.com/news/articles/cd11gp8q300o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c9b5/live/e5271b50-20cb-11ef-9ab0-3729d80343be.jpg",
+      "publishedAt": "2024-06-02T11:42:55Z",
+      "content": "Noor Nanji,Culture reporter, @NoorNanji\r\nActor Toby Jones, who played the lead role in the TV series about the Post Office scandal, has said he \"played a hero\" in the drama.\r\nHe starred as Alan Bates… [+2152 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Substack.com"
+      },
+      "author": "John Gruber",
+      "title": "‘The Shamans and the Chieftain’",
+      "description": "Modern revenge culture, explained by Mrs. and Mr. Alito",
+      "url": "https://snyder.substack.com/p/a-short-course-in-the-rule-of-law",
+      "urlToImage": "https://images.unsplash.com/photo-1678440515574-0dc75039b8fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyOHx8c3VwcmVtZSUyMGNvdXJ0fGVufDB8fHx8MTcxODExMjIzMnww&ixlib=rb-4.0.3&q=80&w=1080",
+      "publishedAt": "2024-06-13T20:32:09Z",
+      "content": "We have the rule of law so as not to have a culture of revenge.\r\n            For much of human history, it was an eye for an eye, as we read in the Bible.  In a revenge culture, a chieftain decides w… [+5216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Ben Rich",
+      "title": "The weather is warming up - but will there be a heatwave?",
+      "description": "After a cool start to June, temperatures will climb over the next few days but how long will the warmth last?",
+      "url": "https://www.bbc.com/weather/articles/c6pp9epe99wo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_weather/b05f/live/02d1ea10-2fa7-11ef-90be-b75b34b0bbb2.jpg",
+      "publishedAt": "2024-06-21T10:22:39Z",
+      "content": "Computer weather models have been struggling with the detail of how quickly this warm spell might break down. \r\nThere had been signs that high pressure and warm winds might linger for some time. But … [+443 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple Weather App Experiencing Issues",
+      "description": "The Apple Weather app appears to be experiencing an outage, with some users seeing it fail to load or take 30 seconds or more to update to the current conditions.\n\n\n\n\n\nThere are reports about the Weather app on social media, and we've also confirmed that it i…",
+      "url": "https://www.macrumors.com/2024/06/05/weather-app-issues-june/",
+      "urlToImage": "https://images.macrumors.com/t/tTiPPN6kJLXTqbTexR84Zx3e0jM=/1920x/article-new/2023/04/weather-off.jpg",
+      "publishedAt": "2024-06-05T18:58:05Z",
+      "content": "The Apple Weather app appears to be experiencing an outage, with some users seeing it fail to load or take 30 seconds or more to update to the current conditions.\r\nThere are reports about the Weather… [+233 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Rebecca Hersher",
+      "title": "FAQ: 5 things to know about weather forecasts and climate change",
+      "description": "Climate change means more extreme weather across the U.S. That’s a challenge for weather forecasters.\u003Cbr\u003E",
+      "url": "https://www.npr.org/2024/05/28/nx-s1-4983732/climate-change-weather-forecasts",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+207/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2F92%2Fcd9f968749878b371043ed3acb18%2Fap24032704255688.jpg",
+      "publishedAt": "2024-06-11T09:10:30Z",
+      "content": "Climate change is causing the weather to get more erratic across the U.S. Rain storms that used to happen once in a lifetime now occur every few years. Heat waves are hotter, and last longer. Hurrica… [+6403 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Rebecca Hersher",
+      "title": "FAQ: 5 things to know about weather forecasts and climate change",
+      "description": "Climate change means more extreme weather across the U.S. That’s a challenge for weather forecasters.\u003Cbr\u003E",
+      "url": "https://www.npr.org/2024/06/11/nx-s1-4983732/climate-change-weather-forecasts",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+207/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2F92%2Fcd9f968749878b371043ed3acb18%2Fap24032704255688.jpg",
+      "publishedAt": "2024-06-11T10:03:11Z",
+      "content": "Climate change is causing the weather to get more erratic across the U.S. Rain storms that used to happen once in a lifetime now occur every few years. Heat waves are hotter, and last longer. Hurrica… [+6403 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Scott Detrow",
+      "title": "National security expert warns that extreme weather threatens democracy",
+      "description": "NPR's Scott Detrow speaks with Alice Hill, a former senior director for resilience policy on the National Security Council, about how extreme weather threatens elections globally.",
+      "url": "https://www.npr.org/2024/06/16/nx-s1-4995551/national-security-expert-warns-that-extreme-weather-threatens-democracy",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-06-16T21:17:12Z",
+      "content": "NPR's Scott Detrow speaks with Alice Hill, a former senior director for resilience policy on the National Security Council, about how extreme weather threatens elections globally."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "David Lumb",
+      "title": "Apple's Weather iOS App Was Down, Now Back Up For Some - CNET",
+      "description": "iPhone owners had a blank Weather app for some time this afternoon, though outages may remain for some.",
+      "url": "https://www.cnet.com/tech/mobile/apples-weather-ios-app-was-down-now-back-up-for-some/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/016f3643ab2ca97b31efae8f57f4fe9f951ea2a7/hub/2020/09/22/823b9923-1707-46b8-bd42-54ec77daa6a9/smart-stack-ios-14.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-06-05T21:41:07Z",
+      "content": "iPhone, iPad, Apple Watch and Mac users checking the weather earlier today may have seen something strange pop up on their forecast: \"Weather unavailable.\" For over an hour, Apple's Weather app that … [+1336 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Lucas Ropek",
+      "title": "Elon Musk Wants You to Have a Baby",
+      "description": "We all know that Elon Musk likes procreation. He has 11 kids, after all. The tech billionaire currently has twins with an executive at Neuralink, two children with his on-again-off-again girlfriend Grimes, and a gaggle of children with his ex-wife, Justine Wi…",
+      "url": "https://gizmodo.com/elon-musk-tesla-spacex-dropping-birthrates-1851540740",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1d0a8a0c5b57179167bf61c0aff68631.png",
+      "publishedAt": "2024-06-14T20:11:00Z",
+      "content": "We all know that Elon Musk likes procreation. He has 11 kids, after all. The tech billionaire currently has twins with an executive at Neuralink, two children with his on-again-off-again girlfriend G… [+3976 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "bradypsnyder@gmail.com (Brady Snyder)",
+      "title": "Google Weather app Material You redesign hits more Android phones and tablets",
+      "description": "The redesigned Google Weather app has been spotted on a variety of Android devices, even those running versions as old as Android 11.",
+      "url": "https://www.androidcentral.com/apps-software/google-weather-app-material-you-redesign-hits-more-android-devices",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gKEEYScNVCnkUtYAynGpBJ-1200-80.jpg",
+      "publishedAt": "2024-05-25T15:40:50Z",
+      "content": "What you need to know\r\n\u003Cul\u003E\u003Cli\u003EGoogle created a new version of the Google Weather app in 2023 and started rolling it out on select Pixel devices. \u003C/li\u003E\u003Cli\u003EThough the overhauled Google Weather app app… [+2701 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kenneth Shepard",
+      "title": "Dragon Age: Dreadwolf Has A New Name And It’s Not As Good",
+      "description": "Dragon Age: Dreadwolf is no longer the name of the fourth game in BioWare’s fantasy RPG series. Now, it’s something that sounds way less cool and doesn’t roll off the tongue. The developer has announced that it’s going to be called Dragon Age: The Veilguard.R…",
+      "url": "https://kotaku.com/dragon-age-4-dreadwolf-veilguard-new-name-title-1851523469",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c2ab01eb559b5ed2b8f060a91cfc899b.jpg",
+      "publishedAt": "2024-06-06T15:29:00Z",
+      "content": "Dragon Age: Dreadwolfis no longer the name of the fourth game in BioWares fantasy RPG series. Now, its something that sounds way less cool and doesnt roll off the tongue. The developer has announced … [+2017 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kenneth Shepard",
+      "title": "Dragon Age: The Veilguard Is Changing How You Import Old Choices",
+      "description": "The Dragon Age series has long allowed players to import choices between games to maintain a consistent world state. Dragon Age: The Veilguard will be no different, but it sounds like it will change up its approach, which previously required either directly i…",
+      "url": "https://kotaku.com/dragon-age-veilguard-dreadwolf-keep-choices-import-1851532520",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/560d3b40cb081a20caa15a2e0f6eb8bf.jpg",
+      "publishedAt": "2024-06-11T16:20:00Z",
+      "content": "The Dragon Age series has long allowed players to import choices between games to maintain a consistent world state. Dragon Age: The Veilguardwill be no different, but it sounds like it will change u… [+1923 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kenneth Shepard",
+      "title": "MultiVersus Selling Players Extra Lives Was A 'Bug,' Dev Says",
+      "description": "In MultiVersus, Warner Bros. crossover fighter, there’s a feature that lets you pay real money to refill your lives during its campaign missions. That sounds scummy, right? Well after fans were rightfully annoyed by it, developer Player First Games has claime…",
+      "url": "https://kotaku.com/multiversus-buy-lives-microtransaction-bug-campaign-1851523162",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b3028a3727c4fce7dc46c40a0cd86f26.jpg",
+      "publishedAt": "2024-06-06T14:10:00Z",
+      "content": "In MultiVersus, Warner Bros. crossover fighter, theres a feature that lets you pay real money to refill your lives during its campaign missions. That sounds scummy, right? Well after fans were rightf… [+1628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Beehiiv.com"
+      },
+      "author": "",
+      "title": "I Open-Sourced KeyEcho: Fast-Responsive Keyboard Sounds with Every Keystroke",
+      "description": "Listen to your keyboard typing and echo pleasant sounds",
+      "url": "https://webdeveloper.beehiiv.com/p/opensourced-keyecho-fastresponsive-keyboard-sounds-every-keystroke-using-tauri",
+      "urlToImage": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/72727833-89f0-4dd2-997a-8ffd45eaa8b2/Hello.png?t=1717771019",
+      "publishedAt": "2024-06-08T06:30:57Z",
+      "content": "TL;DR: I've recently open-sourced KeyEcho, an application that listens to your keyboard typing and plays pleasing sounds (like mechanical keyboard sounds). Built with Tauri, it's cross-platform and h… [+5718 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "Apple's Stock Price Reaches All-Time High After WWDC Announcements",
+      "description": "Apple's stock price has crossed the $200 mark and reached a new all-time high in intraday trading, one day after the company unveiled its Apple Intelligence suite of AI features coming with iOS 18, iPadOS 18, and macOS Sequoia.\n\n\n\n\n\nGenerative AI has been a h…",
+      "url": "https://www.macrumors.com/2024/06/11/aapl-all-time-high-wwdc-2024/",
+      "urlToImage": "https://images.macrumors.com/t/6Otwjhh6sbriyN4wE8qdfH00rgY=/1960x/article-new/2024/06/Apple-WWDC24-Apple-Intelligence-hero-240610.jpg",
+      "publishedAt": "2024-06-11T15:06:19Z",
+      "content": "Apple's stock price has crossed the $200 mark and reached a new all-time high in intraday trading, one day after the company unveiled its Apple Intelligence suite of AI features coming with iOS 18, i… [+852 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Tax online giants to help kids' mental health, say Lib Dems",
+      "description": "Lib Dems to triple taxes on social media giants to fund mental health professionals in all schools.",
+      "url": "https://www.bbc.com/news/articles/crggq5jpx5do",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2f46/live/f27bf690-1dd3-11ef-95bd-a16a3f175cc2.jpg",
+      "publishedAt": "2024-05-29T21:33:02Z",
+      "content": "The Liberal Democrats have said they would increase taxes on social media giants and companies like Amazon and Google to fund mental health professionals for all England's state schools, if they win … [+2799 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Keir Starmer will be next prime minister, says Plaid leader",
+      "description": "The BBC is interviewing all the major party leaders in the run-up to the general election.",
+      "url": "https://www.bbc.com/news/articles/c9rrwe0ne7ro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7a63/live/a320b2c0-28dc-11ef-baa7-25d483663b8e.jpg",
+      "publishedAt": "2024-06-12T17:06:38Z",
+      "content": "The next prime minister of the United Kingdom will be Sir Keir Starmer, the leader of Plaid Cymru has said.\r\nIn a Panorama interview with Nick Robinson, Rhun ap Iorwerth predicted that Labour will wi… [+1299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Jacob Woodward",
+      "title": "XDefiant Twitch Drops: All weekly rewards explained",
+      "description": "XDefiant is taking on the behemoth that is Call of Duty in an effort to give FPS fans another game… Continue reading XDefiant Twitch Drops: All weekly rewards explained\nThe post XDefiant Twitch Drops: All weekly rewards explained appeared first on ReadWrite.",
+      "url": "https://readwrite.com/xdefiant-twitch-drops/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/xdefiant-twitch-drops.jpg",
+      "publishedAt": "2024-05-29T12:15:22Z",
+      "content": "XDefiant is taking on the behemoth that is Call of Duty in an effort to give FPS fans another game to put hours upon hours into, unlocking new guns, camos, and more along the way.\r\nWhile the grind is… [+2444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Timothy Monbleau",
+      "title": "All Kangaroo Locations In Animal Well",
+      "description": "If you’ve played the excellent indie metroidvania Animal Well for at least an hour, you’ve probably been surprised by a Kangaroo. Aside from maybe giving you a jump scare, this animal will bounce around and damage you on contact until one of you retreats. You…",
+      "url": "https://kotaku.com/animal-well-kangaroo-where-guide-secret-tips-1851516140",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/191b4e30aa6dfdefba8475376ae2b453.jpg",
+      "publishedAt": "2024-06-03T16:22:24Z",
+      "content": "If youve played the excellent indie metroidvania Animal Wellfor at least an hour, youve probably been surprised by a Kangaroo. Aside from maybe giving you a jump scare, this animal will bounce around… [+4835 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Ayana Archie",
+      "title": "Simone Biles has won her 9th all-around national championship",
+      "description": "Skye Blakely and Kayla DiCello placed silver and bronze in all-around, respectively.",
+      "url": "https://www.npr.org/2024/06/03/g-s1-2473/simone-biles-all-around-championship",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6702x3768+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2Fe2%2F341662c44e0081fd5a56cb633a07%2Fap24155039975351.jpg",
+      "publishedAt": "2024-06-03T06:49:22Z",
+      "content": "Simone Biles won her ninth U.S. all-around championship Sunday, bringing her total number of national titles to 32.\r\nThe all-around competition lasted two days, in which Biles scored a total of 119.7… [+746 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Michel Martin",
+      "title": "Extreme temperatures can cause all sorts of heat-related illnesses",
+      "description": "NPR's Michel Martin talks to emergency room physician Dr. George Chiampas about how to stay healthy during the heat wave.",
+      "url": "https://www.npr.org/2024/06/21/nx-s1-5010414/extreme-temperatures-can-cause-all-sorts-of-heat-related-illnesses",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-06-21T09:06:49Z",
+      "content": "NPR's Michel Martin talks to emergency room physician Dr. George Chiampas about how to stay healthy during the heat wave."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Michel Martin",
+      "title": "Juneteenth isn’t just a Black holiday. It’s for all Americans",
+      "description": "Opal Lee, the activist known as the grandmother of Juneteenth, worked hard to see it become a federal holiday. NPR's Michel Martin reflects on why it's a holiday for all Americans.",
+      "url": "https://www.npr.org/2024/06/19/g-s1-5022/up-first-newsletter-juneteenth",
+      "urlToImage": "https://media.npr.org/assets/img/2021/06/17/gettyimages-1233323524_wide-12111a2def149cd7a4defca22b3c7b4ba29c8a27.jpg?s=1400&c=100&f=jpeg",
+      "publishedAt": "2024-06-19T11:00:00Z",
+      "content": "Good morning. You're reading a special Juneteenth edition of the Up First newsletter. Subscribe here to get the newsletter delivered to your inbox, and listen to the Up First podcast for all the news… [+2853 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "BeauHD",
+      "title": "IRS Opening Free Online Tax Filing Program To All States",
+      "description": "The free online tax filing program known as IRS Direct File will be made permanent for the 2025 tax season, with all 50 states and Washington D.C. invited to participate. Axios reports: Treasury announced earlier this month that more than 140,000 people parti…",
+      "url": "https://news.slashdot.org/story/24/05/30/2043227/irs-opening-free-online-tax-filing-program-to-all-states",
+      "urlToImage": "https://a.fsdn.com/sd/topics/money_64.png",
+      "publishedAt": "2024-05-30T22:40:00Z",
+      "content": "The free online tax filing program known as IRS Direct File will be made permanent for the 2025 tax season, with all 50 states and Washington D.C. invited to participate. Axios reports: Treasury anno… [+1280 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jordan Hart,Steven Tweedie,Jyoti Mann",
+      "title": "All eyes are on Tim Cook for Apple's big day",
+      "description": "Apple's WWDC event kicks off at 1 p.m. ET. Tim Cook is expected to make big AI and iPhone announcements in his keynote about iOS 18.",
+      "url": "https://www.businessinsider.com/apple-wwdc-event-live-updates-keynote-announcements-2024-6",
+      "urlToImage": "https://i.insider.com/66631b19d0b8e1c832cd01ca?width=1200&format=jpeg",
+      "publishedAt": "2024-06-10T09:00:12Z",
+      "content": "Apple CEO Tim Cook.Apple\r\n\u003Cul\u003E\u003Cli\u003EApple's much-anticipated WWDC 2024 keynote kicks off at 1 p.m. ET.\u003C/li\u003E\u003Cli\u003ETim Cook is set to take the stage and reveal Apple's generative AI strategy.\u003C/li\u003E\u003Cli\u003EApple… [+3115 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Erin Snodgrass",
+      "title": "Sam Altman is actually winning despite all the OpenAI drama",
+      "description": "OpenAI CEO Sam Altman stays winning even amid a torrent of bad publicity surrounding the artificial intelligence startup.",
+      "url": "https://www.businessinsider.com/sam-altman-is-actually-winning-despite-all-the-openai-drama-2024-6",
+      "urlToImage": "https://i.insider.com/666a46e9e079049018188532?width=1200&format=jpeg",
+      "publishedAt": "2024-06-13T08:24:02Z",
+      "content": "Justin Sullivan/Getty Images;Chelsea Jia Feng/BI\r\n\u003Cul\u003E\u003Cli\u003EOpenAI is facing a wave of controversy over safety concerns and its commitment to responsible AI.\u003C/li\u003E\u003Cli\u003EBut CEO Sam Altman keeps racking up… [+4140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sarah Fielding",
+      "title": "Anker's magnetic charging gear is up to 50 percent off right now",
+      "description": "It has hit that time of year when all the rinky-dink chargers I bought have given up, and it's time to invest in some quality options. I'm personally a big fan of Anker, so it's exciting that Amazon is currently discounting some of Anker's best charging gear.…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_df8ca808-1628-449b-9213-6e0fd69af53b",
+      "urlToImage": null,
+      "publishedAt": "2024-06-17T13:45:25Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Lawrence Bonk",
+      "title": "The world’s first tooth-regrowing drug has been approved for human trials",
+      "description": "I remember being a kid and seeing my grandmother without her dentures for the first time. It was a harrowing experience. Now my dad has dentures so, genetically speaking, I’m several decades out from needing some myself. However, it’s possible that modern med…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b9486496-2c0d-4d83-b6d0-70b56b5817ee",
+      "urlToImage": null,
+      "publishedAt": "2024-05-30T17:44:24Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Jenny List",
+      "title": "The Amiga We All Wanted In 1993",
+      "description": "To be an Amiga fan during the dying days of the hardware platform back in the mid 1990s was to have a bleak existence indeed. Commodore had squandered what was to us the best computer ever with dis…",
+      "url": "https://hackaday.com/2024/06/04/the-amiga-we-all-wanted-in-1993/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2024/06/amigapci-featured.jpg",
+      "publishedAt": "2024-06-05T05:00:37Z",
+      "content": "To be an Amiga fan during the dying days of the hardware platform back in the mid 1990s was to have a bleak existence indeed. Commodore had squandered what was to us the best computer ever with disma… [+1163 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Sarwar's family business will have to pay living wage",
+      "description": "The Scottish Labour leader says he has no direct involvement in the family firm but conceded not all staff receive the real living wage.",
+      "url": "https://www.bbc.com/news/articles/cyxx8d0l948o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d5a7/live/b3d50a90-1b4d-11ef-b3fe-eb0d90d1bd39.jpg",
+      "publishedAt": "2024-05-26T11:35:00Z",
+      "content": "Anas Sarwar conceded not all staff at the firm received the national living wage\r\nAnas Sarwar has insisted Labour plans for all workers to be paid a \"genuine living wage\" will apply to all businesses… [+3023 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'I had to tell my four children their mum was dead'",
+      "description": "Speaking on The GAA Social podcast, 2002 All-Ireland winner, Kevin McElvanna, talks about losing his wife and two friends in a car crash.",
+      "url": "https://www.bbc.com/news/articles/c977xxgyxlno",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/23b5/live/6ec702f0-2340-11ef-a13a-0b8c563da930.jpg",
+      "publishedAt": "2024-06-05T13:36:45Z",
+      "content": "\"Nothing would prepare you to tell your children that their mummy isn't coming home.\"\r\nFather of four Kevin McElvanna, who lost his wife in a car crash last year, has been speaking about the trauma o… [+2385 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "BBC signs new four-year audio deal for ICC events",
+      "description": "The BBC signs a new four-year audio deal with the International Cricket Council (ICC) to broadcast all major global tournaments.",
+      "url": "https://www.bbc.com/sport/cricket/articles/c14454kkg9ro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/1321/live/7c2fa750-1e66-11ef-a133-cf78601b4a93.jpg",
+      "publishedAt": "2024-05-30T09:31:22Z",
+      "content": "The BBC has signed a new four-year audio deal with the International Cricket Council (ICC) to broadcast all major global tournaments. \r\nIt means the BBC will have ball-by-ball commentary on every tou… [+1407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Rachael Davies",
+      "title": "Google adds AI-powered features to all Chromebook Plus laptops",
+      "description": "Google has announced a suite of new AI-powered features for its full range of Chromebook Plus devices. Google Chromebook Plus… Continue reading Google adds AI-powered features to all Chromebook Plus laptops\nThe post Google adds AI-powered features to all Chro…",
+      "url": "https://readwrite.com/google-chromebook-ai-features-new/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/Google-Chromebook-AI-features.png",
+      "publishedAt": "2024-05-28T16:03:35Z",
+      "content": "Google has announced a suite of new AI-powered features for its full range of Chromebook Plus devices. Google Chromebook Plus users can now have AI assistance on a range of tasks, including write, id… [+1569 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Ali Rees",
+      "title": "IKEA is hiring for its all new store…in Roblox",
+      "description": "It can be argued that good digital integration is vital for brands that want to stand out in 2024, and… Continue reading IKEA is hiring for its all new store…in Roblox\nThe post IKEA is hiring for its all new store…in Roblox appeared first on ReadWrite.",
+      "url": "https://readwrite.com/ikea-is-hiring-for-its-all-new-storein-roblox/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/download-2024-06-04T144040.140.jpeg",
+      "publishedAt": "2024-06-04T13:50:51Z",
+      "content": "It can be argued that good digital integration is vital for brands that want to stand out in 2024, and IKEA is taking that idea with both hands and hiring ten staff to work in its Roblox store for £1… [+1984 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Owen Good",
+      "title": "All the big announcements from Xbox’s summer showcases",
+      "description": "On Sunday, Microsoft staged an exhaustive livestream of back-to-back game trailers for titles coming to Xbox, Xbox Game Pass and… Continue reading All the big announcements from Xbox’s summer showcases\nThe post All the big announcements from Xbox’s summer sho…",
+      "url": "https://readwrite.com/xbox-summer-game-fest-showcase-announcements-trailers/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/04/Xbox-1-scaled.jpg",
+      "publishedAt": "2024-06-09T21:11:11Z",
+      "content": "On Sunday, Microsoft staged an exhaustive livestream of back-to-back game trailers for titles coming to Xbox, Xbox Game Pass and Windows PC over the next year, followed by another hour going deep ins… [+5897 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Jacob Woodward",
+      "title": "Madden 25 ratings: All announced offensive and defensive player ratings",
+      "description": "With every new Madden comes new player ratings depending on how well the roster has performed on the real-life field.… Continue reading Madden 25 ratings: All announced offensive and defensive player ratings\nThe post Madden 25 ratings: All announced offensive…",
+      "url": "https://readwrite.com/madden-25-ratings/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/madden-25-ratings.jpg",
+      "publishedAt": "2024-06-17T12:00:11Z",
+      "content": "With every new Madden comes new player ratings depending on how well the roster has performed on the real-life field.\r\nWhile its likely to assume players on teams that got close, or achieved Superbow… [+2456 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kris Holt",
+      "title": "It's a golden age of puzzle games, even for people who suck at puzzle games",
+      "description": "I’m a big fan of the British comedy game show Taskmaster\r\n. Each season, five comedians compete against each other to complete ridiculous objectives. The competitors are often rewarded for lateral thinking, as long as they stick within each task's rules.\nEver…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_758d1fe3-b957-4420-ba08-741793417b66",
+      "urlToImage": null,
+      "publishedAt": "2024-05-27T13:00:24Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "techkritiko@gmail.com (Jay Bonggolto)",
+      "title": "Spotify updated its app icon on Android after five years, but it’s not all roses",
+      "description": "Spotify on Android is saying goodbye to the black border around its app icon.",
+      "url": "https://www.androidcentral.com/apps-software/spotify-updated-its-app-icon-on-android-after-five-years-but-its-not-all-roses",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nS4bjbyKmiSYtyq4VFAYJF-1200-80.jpeg",
+      "publishedAt": "2024-05-31T09:47:14Z",
+      "content": "What you need to know\r\n\u003Cul\u003E\u003Cli\u003ESpotify's Android app icon is updated to a borderless design, reverting to its classic look from five years ago.\u003C/li\u003E\u003Cli\u003EPreviously, the icon had a green logo on a blac… [+1893 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "techkritiko@gmail.com (Jay Bonggolto)",
+      "title": "Nothing's CMF Phone 1 might rock a beefier MediaTek chipset after all",
+      "description": "The CMF Phone 1 might ditch the rumored Dimensity 7200 for a newer 7300 SoC.",
+      "url": "https://www.androidcentral.com/phones/nothings-cmf-phone-1-might-rock-a-beefier-mediatek-chipset-after-all",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/82fdJq5T7q3ub5LSWtuNg9-1200-80.jpg",
+      "publishedAt": "2024-06-10T08:05:57Z",
+      "content": "What you need to know\r\n\u003Cul\u003E\u003Cli\u003EInitially rumored to have a Dimensity 7200, a leak suggests it might come with the new Dimensity 7300 SoC.\u003C/li\u003E\u003Cli\u003EThe Dimensity 7300 is expected to deliver performance… [+2823 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "tips@androidcentral.com (Nickolas Diaz)",
+      "title": "The Galaxy Z Fold 6 Ultra might come to more markets after all",
+      "description": "A database discovery suggests the Fold 6 Ultra might shed its South Korean exclusivity and hit more areas.",
+      "url": "https://www.androidcentral.com/phones/galaxy-z-fold-6-ultra-might-hit-more-markets",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NXtDAFJCQbFCKepDpKjpDU-1200-80.jpg",
+      "publishedAt": "2024-06-14T18:31:22Z",
+      "content": "What you need to know\r\n\u003Cul\u003E\u003Cli\u003EA new database listing was discovered, highlighting the potential for Samsung's Galaxy Z Fold 6 Ultra to drop its South Korean market exclusivity.\u003C/li\u003E\u003Cli\u003EShowing the n… [+2697 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "techkritiko@gmail.com (Jay Bonggolto)",
+      "title": "Google goes all-in on fixing Pixel 8 screen issues with a warranty extension",
+      "description": "Pixel 8 users dealing with display issues like vertical line or flickering now have a three-year warranty coverage.",
+      "url": "https://www.androidcentral.com/phones/google-goes-all-in-on-fixing-pixel-8-screen-issues-with-a-warranty-extension",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YC8hoYh837VKLXJKTSg2YK-1200-80.jpg",
+      "publishedAt": "2024-06-14T10:27:20Z",
+      "content": "What you need to know\r\n\u003Cul\u003E\u003Cli\u003EGoogle has introduced a three-year extended warranty for Pixel 8 devices to address display issues like vertical lines and flickering.\u003C/li\u003E\u003Cli\u003ENot all devices qualify; … [+2323 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)",
+      "title": "Fiio M23 review: This mid-range digital audio player has all the right upgrades",
+      "description": "The M23 doesn't bring a lot of upgrades over the M11S, but it has a better DAC and new features you might actually end up using.",
+      "url": "https://www.androidcentral.com/accessories/audio/fiio-m23-review",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qxxoRTBw45bKs4qaLCsiJX-1200-80.jpg",
+      "publishedAt": "2024-06-06T01:33:45Z",
+      "content": "Digital audio players are a good choice if you want the versatility of Android and need something with easy portability. Obviously, a phone with a high-quality DAC and an audio jack — maybe even a 4.… [+7945 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "MacRumors Staff",
+      "title": "Top Stories: iOS 17.5.1 Fixes Concerning Photos Bug, All-New iPhone 17 Model Rumored, and More",
+      "description": "It's been quite a week of Apple news and rumors, ranging from a concerning bug with deleted photos reappearing on users' devices to hot rumors about a new high-end iPhone model for 2025 and a MacBook with a foldable screen coming as soon as 2026.\n\n\n\n\n\nOther n…",
+      "url": "https://www.macrumors.com/2024/05/25/top-stories-ios-17-5-1-photos-bug-fix/",
+      "urlToImage": "https://images.macrumors.com/t/2bPkwIlZPhZNUD_eomQcB6IW7so=/1600x/article-new/2024/05/top-stories-25may2024.jpg",
+      "publishedAt": "2024-05-25T13:00:00Z",
+      "content": "It's been quite a week of Apple news and rumors, ranging from a concerning bug with deleted photos reappearing on users' devices to hot rumors about a new high-end iPhone model for 2025 and a MacBook… [+3882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Joey Skladany",
+      "title": "How to Care for Succulents So They Thrive in All Seasons - CNET",
+      "description": "Succulents may be able to survive harsh conditions and human neglect, but these reliable potted plants deserve better. Here's how to properly care for succulents at home.",
+      "url": "https://www.cnet.com/home/how-to-care-for-succulents-so-they-thrive-in-all-seasons/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/a0ea58f47e3836d8662f04d38d8220ef7f5ea4ad/hub/2022/11/22/2545fdc2-6f2b-4a3a-9a19-b0a21c738d65/gettyimages-1081880490.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-05-29T17:41:28Z",
+      "content": "Even the most prolific plant killers can bet on keeping succulents alive. After all, the family of desert plants can withstand even the harshest of living conditions, making them ideal for newbies or… [+4399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Oliver Haslam",
+      "title": "Keep All Your Tech Charged With This Versatile 6-in-1 Cable, Now Just $22 - CNET",
+      "description": "The adaptable cable supports USB-A, USB-C, Lightning and more.",
+      "url": "https://www.cnet.com/deals/keep-all-your-tech-charged-with-this-versatile-6-in-1-cable-now-just-22/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/dc541e2aceb5e00d0e8cad2e84c8b29886fdd7c5/hub/2024/06/07/3085ab1a-9f03-47ab-86c8-f5d4fd965c45/usb-6-1-commerce-image.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-06-07T09:20:00Z",
+      "content": "Charging electronics has become a daily burden for anyone who uses phones, tablets, handheld consoles, earbuds or other battery-powered portable tech. While many modern devices have shifted to USB-C,… [+1580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Matt Elliott",
+      "title": "French Open 2024: How to Watch, Stream All the Tennis Live Today From Paris - CNET",
+      "description": "Check out the men's and women's draws and match schedules, and learn how to watch the second Grand Slam of the year without cable.",
+      "url": "https://www.cnet.com/tech/services-and-software/french-open-2024-how-to-watch-stream-all-the-tennis-live-today-from-paris/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/d1a78ebd05cba00b8d19a8e2ad8297b3712e5216/hub/2024/05/23/7ebca20d-0b93-43bb-8f0c-84361e967152/gettyimages-1410301424.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-05-26T07:00:03Z",
+      "content": "The end of an era is upon us. This year's French Open is very likely the last time we will see Rafael Nadal play on the red clay of Roland-Garros. The 37-year-old Spaniard has battled injuries over t… [+5964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Kourtnee Jackson",
+      "title": "Streaming in June 2024 Is Peak TV, So You'll Need All These Services - CNET",
+      "description": "Everywhere you turn this month, there's a big TV show hitting streaming services.",
+      "url": "https://www.cnet.com/tech/services-and-software/streaming-in-june-2024-is-peak-tv-so-youll-need-all-these-services/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/641e950df9cdfc7a823e5beed53ee7266faa31ab/hub/2024/05/04/cda07449-0069-478e-a0ae-cc730b91b579/the-boys-season-4-antony-starr-key-art-prime-video.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-06-01T12:15:08Z",
+      "content": "Summer movie blockbuster season is here, but in between trips to the theater to catch Bad Boys 4, Inside Out 2, The Watchers and A Quiet Place: Day One, you can lock in on streaming. TV shows like Ho… [+6329 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Kevin Lynch",
+      "title": "Canadian Open 2024: How to Watch and Stream All the PGA Tour Golf From Anywhere - CNET",
+      "description": "Nick Taylor looks to defend his crown as the Tour heads to the Hamilton Golf and Country Club.",
+      "url": "https://www.cnet.com/tech/services-and-software/canadian-open-2024-how-to-watch-and-stream-all-the-pga-tour-golf-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/9cb174cc7227d36e4127017b478d24b9d77916ce/hub/2024/05/30/3de17c72-d23c-4bd7-a164-ec39f4804f34/gettyimages-2153251879.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-05-30T16:30:08Z",
+      "content": "Nick Taylor will try to make history once more as he looks to defend his title at the Canadian Open this weekend. \r\nAn epic 72-foot playoff putt saw Taylor clinch last year's title ahead of Tommy Fle… [+3921 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Aaron Souppouris",
+      "title": "Slapstick platformer Thank Goodness You're Here! arrives August 1",
+      "description": "Thank Goodness You're Here! was perhaps the highlight of Untitled Goose Game publisher Panic's first-ever game show last year. It's described as a \"slapformer\" or slapstick platformer, and it's set in a fictional Northern English town called Barnsworth. With …",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_20c8381b-9a8d-4fb2-b691-b97dad4ad7bf",
+      "urlToImage": null,
+      "publishedAt": "2024-06-07T20:52:15Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Mat Smith",
+      "title": "Prince of Persia: The Sands of Time remake is still happening and it's coming out 2026",
+      "description": "After all the delays, studio switches and confusion, and following plenty of updates on those spinoff Prince of Persia games, Ubisoft's SGF 2024 presentation included a release... year for its troubled Sands of Time remake. We're not really getting any more d…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3eee2089-f890-41f5-9a8f-243d1bb75d28",
+      "urlToImage": null,
+      "publishedAt": "2024-06-10T19:50:02Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "iFixit Provides Look Inside All-New 13-Inch iPad Air in Teardown Video",
+      "description": "The popular repair website iFixit today shared a video teardown of the first-ever 13-inch iPad Air, providing a look inside the device.\n\n\n\n\r\n\n\nThe new iPad Air does not have too many internal changes compared to the previous-generation model. Like the fifth-g…",
+      "url": "https://www.macrumors.com/2024/05/24/ifixit-13-inch-ipad-air-teardown-video/",
+      "urlToImage": "https://images.macrumors.com/t/GtmXZYg5WUSsqBZ4FPaNIShGjoA=/1600x/article-new/2024/05/iFixit-Teardown-M2-iPad-Air.jpeg",
+      "publishedAt": "2024-05-24T15:55:14Z",
+      "content": "The popular repair website iFixit today shared a video teardown of the first-ever 13-inch iPad Air, providing a look inside the device.\r\nThe new iPad Air does not have too many internal changes compa… [+521 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Jenny List",
+      "title": "So What’s All This HaLow Long-Range WiFi About Then?",
+      "description": "We’re all used to wireless networking, but if there’s one thing the ubiquitous WiFi on 2.4 or 5 GHz lacks, it’s range. Inside buildings, it will be stopped in its tracks by anythi…",
+      "url": "https://hackaday.com/2024/05/26/so-whats-all-this-halow-long-range-wifi-about-then/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2024/05/HaLow-Featured.jpg",
+      "publishedAt": "2024-05-27T05:00:18Z",
+      "content": "We’re all used to wireless networking, but if there’s one thing the ubiquitous WiFi on 2.4 or 5 GHz lacks, it’s range. Inside buildings, it will be stopped in its tracks by anything more than a medio… [+1515 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Cheryl Eddy",
+      "title": "Deadpool & Wolverine Reminds You to Silence Your Phone in a Very Deadpool & Wolverine Way",
+      "description": "We’ve all had time to absorb the wonder that is the official Deadpool & Wolverine popcorn bucket; now, you can appreciate another subversive movie-theater flourish courtesy of Marvel’s eagerly awaited summer release. The full “Silence Your Phone” PSA featurin…",
+      "url": "https://gizmodo.com/deadpool-wolverine-funny-silence-your-cell-phone-psa-1851519699",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/94a3c45d00b77864c3b601234d65ba75.jpg",
+      "publishedAt": "2024-06-04T22:30:00Z",
+      "content": "Weve all had time to absorb the wonder that is the official Deadpool &amp; Wolverine popcorn bucket; now, you can appreciate another subversive movie-theater flourish courtesy of Marvels eagerly awai… [+978 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Excited About the Brand New Siri? Here's How Long You'll Have to Wait",
+      "description": "If you were hoping that all those“Apple Intelligence” features showcased during WWDC 2024 would make their way to your iPhone sooner rather than later, I’ve got some bad news for you. The best you can expect to see the new and improved Siri is 2025. Plus, you…",
+      "url": "https://gizmodo.com/apple-intelligence-siri-2025-iphone-1851532037",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f39f96e86023acbc231946b42b9455b0.jpg",
+      "publishedAt": "2024-06-11T15:15:00Z",
+      "content": "If you were hoping that all those Apple Intelligence features showcased during WWDC 2024 would make their way to your iPhone sooner rather than later, Ive got some bad news for you. The best you can … [+3232 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Dua Rashid",
+      "title": "The Best Gadgets of May 2024",
+      "description": "May was a loaded month with Apple and Google both releasing products. Project Astra was definitely the most interesting thing we saw at an otherwise boring Google I/O. Apple also dropped its latest iPad Pros with the all-new M4 chip and OLED displays, a 13-in…",
+      "url": "https://gizmodo.com/best-gadgets-of-may-2024-1851511825",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a5ea1059c9b89a49ff8bc86d2c62c043.jpg",
+      "publishedAt": "2024-05-31T19:00:00Z",
+      "content": "Starting at $1,000, the iPad Pro with an M4 chip is beautiful and powerful. And in a lot of ways, try to even out-MacBook the MacBook. Thanks to a new OLED screen and chip, hardware-wise, its as clos… [+158 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "James Whitbrook",
+      "title": "Star Trek's New Starfleet Academy Show Is Set In the Far Future to Give Its Heroes Hope",
+      "description": "The series that started Star Trek’s streaming era came to an end this week, but as ever with the franchise’s current moment, all eyes are already on what’s next. But Starfleet Academy, the next new Trek show, won’t actually be making that much of a temporal j…",
+      "url": "https://gizmodo.com/star-trek-starfleet-academy-32nd-century-discovery-1851511715",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/5aa23d46c56943aca8423373bbb9f4fc.jpg",
+      "publishedAt": "2024-05-31T14:00:00Z",
+      "content": "The series that started Star Treks streaming era came to an end this week, but as ever with the franchises current moment, all eyes are already on whats next. But Starfleet Academy, the next new Trek… [+4599 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Passant Rabie",
+      "title": "Beyond the Planets: The Quirky Underdogs of the Solar System",
+      "description": "The Sun is orbited by eight planets, at least five dwarf planets, tens of thousands of asteroids, and around three trillion comets and icy bodies. Although not all objects of the solar system are as well known as Earth, Jupiter, or other celestial bodies with…",
+      "url": "https://gizmodo.com/quirky-solar-system-objects-asteroids-moons-centaurs-1851494681",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e07a268980b8178bf7fd70f9e2f1d399.jpg",
+      "publishedAt": "2024-05-28T14:25:00Z",
+      "content": "Binary asteroids are not uncommon, but having two rocky bodies of nearly the same mass orbiting one another is pretty trippy.\r\nMost binary pairs are uneven, with one being significantly larger than t… [+481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "James Whitbrook",
+      "title": "Lego's First Adult-Focused Minecraft Set Is a Very Stylish Cube",
+      "description": "Lego has been making Minecraft sets for years at this point, and of course, kids and adult fans of the crafting game megahit will have inevitably enjoyed all those sets. But it’s still interesting that it’s taken so long for Lego to bring the franchise to its…",
+      "url": "https://gizmodo.com/lego-minecraft-crafting-table-price-release-date-1851516122",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0d5498aa5d5462dc7cd618af44c3d061.png",
+      "publishedAt": "2024-06-03T16:20:51Z",
+      "content": "Lego has been making Minecraft sets for years at this point, and of course, kids and adult fans of the crafting game megahit will have inevitably enjoyed all those sets. But its still interesting tha… [+1427 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Germain Lussier",
+      "title": "The Acolyte Is Already a Hit for Disney+",
+      "description": "Even though it’s Star Wars, The Acolyte was a gamble. A new show, set in a new time period, featuring all-new characters played by actors you recognize but maybe don’t know by name just yet. Its first episodes also held secrets that changed the entire traject…",
+      "url": "https://gizmodo.com/acolyte-ratings-viewers-star-wars-disney-plus-jedi-sith-1851526184",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/581be07f99eaad43fcafc01ab262cd15.jpg",
+      "publishedAt": "2024-06-07T18:20:00Z",
+      "content": "Even though its Star Wars,The Acolytewas a gamble. A new show, set in a new time period, featuring all-new characters played by actors you recognize but maybe dont know by name just yet. Its first ep… [+2212 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Microsoft Says You Don’t Have to Use Recall On Copilot+ If You Don’t Want To",
+      "description": "Microsoft finally addressed customers’ and researchers’ concerns about its auto-screenshotting, AI-enabled Recall feature. The company promises the screencaps will have more encryption, and you’ll need to use your face, fingerprint, or PIN to access the featu…",
+      "url": "https://gizmodo.com/microsoft-says-you-don-t-have-to-use-recall-on-copilot-1851526576",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0e89ad101142d9c5d991bc6a96e5de6f.jpg",
+      "publishedAt": "2024-06-07T18:50:00Z",
+      "content": "Microsoft finally addressed customers and researchers concerns about its auto-screenshotting, AI-enabled Recall feature. The company promises the screencaps will have more encryption, and youll need … [+3512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Dua Rashid",
+      "title": "WWDC 2024: How to Stream",
+      "description": "Apple’s annual Worldwide Developer’s Conference, or WWDC, is all set to be held from June 10 through June 14 at Apple Park in Cupertino, California. If you're not in person, youcan catch up on the Cupertino company’s OS news online. Apple also posts an archiv…",
+      "url": "https://gizmodo.com/apple-wwdc-2024-how-to-stream-1851529354",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e5d8b282a53765755eb484b7e6bd3a8a.jpg",
+      "publishedAt": "2024-06-10T14:05:00Z",
+      "content": "Apples annual Worldwide Developers Conference, or WWDC, is all set to be held from June 10 through June 14 at Apple Park in Cupertino, California. If you're not in person, you can catch up on the Cup… [+1299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Isaac Schultz",
+      "title": "A Bonus 'Hitchhiker' Will Come Back From Mars in Perseverance's Sample Tubes",
+      "description": "The Perseverance rover has been toiling on the Martian surface for over three years, collecting rock samples that will eventually be brought to Earth if all goes according to plan. But the rover has also picked up hitchhikers, in the form of traces of Martian…",
+      "url": "https://gizmodo.com/nasa-mars-sample-return-atmosphere-air-perseverance-1851553415",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/567bc485cc5b05a963844bb41b17e10c.png",
+      "publishedAt": "2024-06-21T17:05:00Z",
+      "content": "The Perseverance rover has been toiling on the Martian surface for over three years, collecting rock samples that will eventually be brought to Earth if all goes according to plan. But the rover has … [+2954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Collin Woodard, Jalopnik",
+      "title": "New Cybertruck Sends Owner to the Emergency Room Before He Even Gets a Chance to Drive It",
+      "description": "The Tesla Cybertruck’s launch has been far from smooth, to say the least. We’ve heard about the time a car wash bricked a Cybertruck, the frunk’s taste for fingers and that coolant leaks aren’t covered by the warranty even if you’ve only driven 35 miles since…",
+      "url": "https://gizmodo.com/new-cybertruck-sends-owner-to-the-emergency-room-before-1851503680",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/5eb5a98c7b0a8363abf6c2ded7cfd64b.jpg",
+      "publishedAt": "2024-05-28T15:50:00Z",
+      "content": "The Tesla Cybertrucks launch has been far from smooth, to say the least. Weve heard about the time a car wash bricked a Cybertruck, the frunks taste for fingers and that coolant leaks arent covered b… [+3192 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Germain Lussier",
+      "title": "The Best New Movies and TV Streaming in June 2024, and Where to Watch Them",
+      "description": "May showers bring June flowers and also, lots of streaming content. Welcome to io9's latest edition of the Nerd’s Watch, where we pare down the enormous lists of new films and television shows arriving on all your favorite streaming services into the sci-fi, …",
+      "url": "https://gizmodo.com/best-streaming-june-2024-netflix-prime-hulu-disney-plus-1851508107",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0a0d43f2fc865405ac97ab5f92b87b6e.jpg",
+      "publishedAt": "2024-05-31T17:00:00Z",
+      "content": "Whats available on Prime June 1?\r\nThe Adventures Of Priscilla, Queen Of The Desert (1994)\r\nThe African Queen (1952)\r\nThe Animal (2001)\r\nAnimal Crackers (2020)\r\nAnnie (2014)\r\nBasic (2003)\r\nBattlefield… [+1206 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Passant Rabie",
+      "title": "NASA's Perseverance Rover Accidentally Draws Gigantic Penis on Mars",
+      "description": "Things can get lonely on Mars. NASA’s four-wheeled robot has been roaming the Red Planet for more than three years, trekking across the harsh terrain on its own after losing its pal Ingenuity. But perhaps the Martian rover has found a way to connect with us f…",
+      "url": "https://gizmodo.com/nasa-perseverance-rover-giant-penis-mars-1851540382",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/02d0231301ab084b925b0a501febf691.png",
+      "publishedAt": "2024-06-14T16:25:00Z",
+      "content": "Things can get lonely on Mars. NASAs four-wheeled robot has been roaming the Red Planet for more than three years, trekking across the harsh terrain on its own after losing its pal Ingenuity. But per… [+2928 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Cheryl Eddy",
+      "title": "10 Weird, Wild Movies to Stream on Shudder Tonight",
+      "description": "You can certainly comb through the big streaming services—Netflix, Peacock, Prime Video, Max—to get your horror-movie fix. But if horror is all you want, Shudder should top your list of subscriptions. It has an excellent library spanning many sub-genres, with…",
+      "url": "https://gizmodo.com/10-weird-wild-horror-movies-streaming-now-on-shudder-1851498003",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f1dbe9504b0e4a18f5bd307af1b4d9a9.jpg",
+      "publishedAt": "2024-05-27T15:00:00Z",
+      "content": "Lamberto Bava directs and co-writes, Dario Argento produces and co-writes, and Claudio Simonetti does the score (with an extra dose of 80s rock n roll, thanks to soundtrack cuts from Motley Crue, Bil… [+280 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "James Whitbrook",
+      "title": "Arcane Season 2's New Trailer Teases a Battle to the Bloody End",
+      "description": "All good things must come to an end—for us and the denizens of Piltover and Zaun alike, it seems. Netflix has just dropped the first full look at the return of Arcane, Fortiche’s sumptuous League of Legends prequel... and confirmed that season 2 will be its l…",
+      "url": "https://gizmodo.com/arcane-season-2-trailer-netflix-final-season-lol-1851532242",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/fed983955c7b38a2a106c41cdf713020.jpg",
+      "publishedAt": "2024-06-11T15:00:00Z",
+      "content": "All good things must come to an endfor us and the denizens of Piltover and Zaun alike, it seems. Netflix has just dropped the first full look at the return of Arcane, Fortiches sumptuous League of Le… [+1767 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Kathryn Fink",
+      "title": "This airport has never lost a bag. For one chief handler, it's all about respect",
+      "description": "As the summer travel season begins, thousands of bags will likely go missing. But not at one particular airport in Japan that makes a stunning claim: it has never lost a piece of luggage.",
+      "url": "https://www.npr.org/2024/05/27/nx-s1-4983055/airport-lost-luggage-japan-record-travel",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4657x2620+0+352/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2Fd9%2F617594524e5ea06d878a504fe8fa%2Fgettyimages-1211557211.jpg",
+      "publishedAt": "2024-05-30T14:07:58Z",
+      "content": "As the summer travel season begins, thousands of bags will go missing at airports all over the world. It's a given at this point. But not at one particular airport in Japan that makes a stunning clai… [+2851 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Bobby Allyn",
+      "title": "‘All eyes on Rafah’ is the Internet's most viral AI meme. 2 artists are claiming credit.",
+      "description": "The image, with over 50 million shares, is considered the most viral ever AI-generated photo. Tracing the image’s history has revealed a rift over its true creator.\u003Cbr\u003E",
+      "url": "https://www.npr.org/2024/06/02/g-s1-2455/all-eyes-on-rafah-most-viral-ai-meme-malaysia-artists-claim-credit",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1430x804+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2Fa2%2F45c62d054bb7b566427c908bbf32%2Frafah-duo-label.jpg",
+      "publishedAt": "2024-06-03T16:15:06Z",
+      "content": "Two Malaysians separated by 900 miles are both taking credit for a synthetic image of Gaza that became the most viral ever AI-generated photo, underscoring the complexities of authorship and ownershi… [+7161 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "msmash",
+      "title": "Japan's Push To Make All Research Open Access is Taking Shape",
+      "description": "The Japanese government is pushing ahead with a plan to make Japan's publicly funded research output free to read. From a report: In June, the science ministry will assign funding to universities to build the infrastructure needed to make research papers free…",
+      "url": "https://science.slashdot.org/story/24/05/31/1748243/japans-push-to-make-all-research-open-access-is-taking-shape",
+      "urlToImage": "https://a.fsdn.com/sd/topics/japan_64.png",
+      "publishedAt": "2024-05-31T18:50:00Z",
+      "content": "In June, the science ministry will assign funding to universities to build the infrastructure needed to make research papers free to read on a national scale. The move follows the ministry's announce… [+1410 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Anandita Bhalerao",
+      "title": "Former President Trump found guilty on all 34 felony charges in hush money trial",
+      "description": "A Manhattan jury found former President Donald Trump guilty of all 34 counts of falsifying business records to illegally influence the 2016 election. Trump’s sentencing is scheduled for July 11.",
+      "url": "https://www.npr.org/2024/05/31/g-s1-2086/former-president-trump-found-guilty-on-all-34-felony-charges-in-hush-money-trial",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7409x4168+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1a%2Fa0%2F0a9437cd427498117891d35cfe0e%2Fgettyimages-2154683580.jpg",
+      "publishedAt": "2024-05-31T12:37:33Z",
+      "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+5259 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Tom Goldman",
+      "title": "Willie Mays, widely considered baseball's best all-around player, dies at 93",
+      "description": "Mays' Hall-of-Fame career spanned more than two decades, from the 1950s to 1970s. He spent nearly all of those years with the Giants – first in New York and then in San Francisco.",
+      "url": "https://www.npr.org/2024/06/19/nx-s1-2405508/willie-mays-widely-considered-baseballs-best-all-around-player-dies-at-93",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-06-19T09:03:47Z",
+      "content": "Mays' Hall-of-Fame career spanned more than two decades, from the 1950s to 1970s. He spent nearly all of those years with the Giants first in New York and then in San Francisco."
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Matthew Loh",
+      "title": "Yes, Narendra Modi won again. So what's all the fuss about?",
+      "description": "Narendra Modi secured his third term as prime minister on Tuesday. Yet it's how he's won that's got the world buzzing about Earth's biggest election.",
+      "url": "https://www.businessinsider.com/narendra-modi-win-bjp-india-election-explained-2024-6",
+      "urlToImage": "https://i.insider.com/665ff232cc442a2f676e0800?width=1200&format=jpeg",
+      "publishedAt": "2024-06-05T05:42:02Z",
+      "content": "India's Prime Minister Narendra Modi attends the release of the Bharatiya Janata Party's (BJP) manifesto ahead of country's upcoming general elections, at the party headquarters in New Delhi on April… [+5773 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Erin Snodgrass,Lloyd Lee",
+      "title": "All the questions you have about Donald Trump's criminal conviction, answered",
+      "description": "Donald Trump was convicted of 34 counts of falsifying business records in his hush-money trial on Thursday.",
+      "url": "https://www.businessinsider.com/trump-hush-money-trial-verdict-conviction-explained-felon-president-2024",
+      "urlToImage": "https://i.insider.com/665925ae1cd3b1779041ee60?width=1200&format=jpeg",
+      "publishedAt": "2024-05-31T01:31:57Z",
+      "content": "Former US President Donald Trump attends his hush-money trial at Manhattan Criminal Court in New York City.MARK PETERSON/POOL/AFP via Getty Images\r\n\u003Cul\u003E\u003Cli\u003EA jury found Donald Trump guilty of 34 coun… [+3784 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nbcsportschicago.com"
+      },
+      "author": "NBC Sports Chicago",
+      "title": "Five Bears not named Caleb Williams who will determine playoff fate in 2024",
+      "description": "Caleb Williams has taken up all the oxygen this offseason, but the Bears' playoff hopes won't rest squarely on his uber-talented right arm.",
+      "url": "https://www.nbcsportschicago.com/nfl/chicago-bears/bears-analysis/five-bears-not-named-caleb-williams-who-will-determine-playoff-fate-in-2024/571428/?partner=yahoo",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4.IYm0LxaHx1XGFc13CRbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/csnchicago.com/103dd3fa4034605ad896b9114a3b8a09",
+      "publishedAt": "2024-06-24T16:31:20Z",
+      "content": "Five Bears not named Caleb Williams who will determine playoff fate in 2024 originally appeared on NBC Sports Chicago\r\nCaleb Williams and the Bears will enter the 2024 season with playoff expectation… [+7918 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Joseph Lowery",
+      "title": "NWSL Power Rankings: K.C. Current still unbeaten, Giráldez's Spirit move up",
+      "description": "Kansas City Current retain their spot at the top of our NWSL power rankings this week, while Washington Spirit move into top three.",
+      "url": "https://www.espn.com/soccer/story/_/page/nwslpowerrankings0624/nwsl-power-rankings-kansas-city-current-unbeaten-giraldez-spirit-move-up",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0624%2Fr1349851_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-06-24T16:27:38Z",
+      "content": "Jun 24, 2024, 12:30 PM ET\r\nThe Kansas City Current maintain their spot at first in this week's NWSL power rankings. Craig Mitchelldyer-USA TODAY Sports\r\nIt's Monday, and another week of NWSL action i… [+7273 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rlsbb.ru"
+      },
+      "author": "Robotnico",
+      "title": "Biography WWE Legends S04E11 1080p WEB h264-EDITH",
+      "description": "Season 4, Episode 11 – \"Rob Van Dam\"Rob Van Dam's refusal to let others define who he is has helped him to become known as one of the most beloved and one-of-a-kind superstars in sports entertainment history. From his humble beginnings showing off in the loca…",
+      "url": "https://rlsbb.ru/biography-wwe-legends-s04e11-1080p-web-h264-edith/",
+      "urlToImage": null,
+      "publishedAt": "2024-06-24T16:26:16Z",
+      "content": "Season 4, Episode 11 \"Rob Van Dam\"Rob Van Dam's refusal to let others define who he is has helped him to become known as one of the most beloved and one-of-a-kind superstars in sports entertainment h… [+399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Minneapolis Star Tribune"
+      },
+      "author": "Jp Lawrence",
+      "title": "Dam near Mankato in danger of 'imminent failure'",
+      "description": "Flooding has washed out a portion of the Rapidan Dam on the Blue Earth River, as the water continues to rise.",
+      "url": "https://www.startribune.com/dam-near-mankato-in-danger-of-imminent-failure/600375733/",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/IZVMV5YBFZDNVFNPAXJGXYF5DU.jfif?h=630&w=1200&fit=crop&bg=999&crop=faces",
+      "publishedAt": "2024-06-24T16:38:54Z",
+      "content": "The Rapidan Dam near Mankato is in \"imminent failure condition,\" Blue Earth County officials warned Monday.\r\nCounty officials are warning residents downstream after debris from rising waters due to r… [+1349 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+      "title": "Who Is Responsible For Space Debris Falling On Your Home? Florida Family Sues NASA To Find Out",
+      "description": "A Florida family sued NASA after a piece of trash from the International Space Station fell on and damaged their home.",
+      "url": "https://www.forbes.com/sites/roberthart/2024/06/24/who-is-responsible-for-space-debris-falling-on-your-home-florida-family-sues-nasa-to-find-out/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65392332f8b344e3d8cb8801/0x0.jpg?format=jpg&crop=4500,2533,x0,y48,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-06-24T16:34:31Z",
+      "content": "A family from Florida is suing NASA after a piece of debris from the International Space Station fell to Earth and punched a hole in their roof, a rare case that raises questions about who is respons… [+6059 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Stephen Swanson",
+      "title": "Flooding causes Rapidan Dam near Mankato to fail; nearby residents urged to evacuate",
+      "description": "Flooding on the Blue Earth River caused the Rapidan Dam to fail on Monday morning. Le Sueur County residents in low-lying areas of the Minnesota River Valley are advised to evacuate, according to the county's emergency management office.",
+      "url": "https://www.cbsnews.com/minnesota/news/rapidan-dam-fails-evacuation-blue-earth-county/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/24/0af3e342-8b0b-42a2-9907-2562873d6683/thumbnail/1200x630/39aa2a72e78e16113eb5762013880b39/12p-vo-rapidan-dam-fail-wcco5n7x.jpg?v=cb1f2643a8816828741cfb3a3fb2d931",
+      "publishedAt": "2024-06-24T16:23:00Z",
+      "content": "RAPIDIAN, Minn. — Flooding on the Blue Earth River caused the Rapidan Dam to fail on Monday morning. Le Sueur County residents in low-lying areas of the Minnesota River Valley are advised to evacuate… [+1970 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "2 Men Drive SUVs Into Sea, Almost Drown During Stunt For Instagram Reel",
+      "description": "In an attempt to perform risky stunts for Instagram reel content, two men drove their Mahindra Thar SUVs into deep sea water along the shore of Mundra in Gujarat's Kutch region.",
+      "url": "https://www.ndtv.com/india-news/2-men-drive-suvs-into-sea-almost-drown-during-stunt-for-instagram-reel-in-gujarat-5960984",
+      "urlToImage": "https://c.ndtvimg.com/2024-06/e2tnv7ag_gujarat-suv-kutch_625x300_24_June_24.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240615.100",
+      "publishedAt": "2024-06-24T15:45:04Z",
+      "content": "Cops have seized both vehicles and legal action has been taken.\r\nNew Delhi: In an attempt to perform risky stunts for Instagram reel content, two men drove their Mahindra Thar SUVs into deep sea wate… [+609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slickdeals.net"
+      },
+      "author": "tn70626",
+      "title": "PENN Spinfisher VI Fishing Rod and Reel Spinning Combo 7 1PC M 4500 or 5500 $98 - Walmart",
+      "description": "Walmart has PENN Spinfisher VI 7' Fishing Rod and Reel Spinning Combo (4500 or 5500) on sale for $98. Shipping is free.\r\n\r\nThanks to community member tn70626 for finding this deal.\r\n\r\nAvailable:PE ...",
+      "url": "https://slickdeals.net/f/17577072-penn-spinfisher-vi-7-fishing-rod-and-reel-spinning-combo-4500-or-5500-98-free-shipping",
+      "urlToImage": "https://static.slickdealscdn.com/attachment/4/5/4/3/2/5/15685866.attach",
+      "publishedAt": "2024-06-24T13:35:08Z",
+      "content": "Great price for a great saltwater reel.The rods are nothing special, but will certainly be fine for anyone who doesn't know any better.\r\nEither size will work for most applications. The 4500 isn't to… [+520 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slickdeals.net"
+      },
+      "author": "tn70626",
+      "title": "PENN Spinfisher VI Fishing Rod and Reel Spinning Combo 7 1PC M 4500 or 5500 $98",
+      "description": "Available at Walmart.com \nPENN Spinfisher VI Fishing Rod and Reel Spinning Combo, 7' 1PC M, 4500 - $98 \nPENN Spinfisher VI Fishing Rod and Reel Spinning Combo, 7' 1PC MH, 5500 - $98 \nPENN 7' Spinfishe ...",
+      "url": "https://slickdeals.net/f/17577072-penn-spinfisher-vi-fishing-rod-and-reel-spinning-combo-7-1pc-m-4500-or-5500-98-walmart",
+      "urlToImage": "https://static.slickdealscdn.com/attachment/4/1/5/3/4/5/2/15683388.attach",
+      "publishedAt": "2024-06-24T13:35:08Z",
+      "content": "Great price for a great saltwater reel.The rods are nothing special, but will certainly be fine for anyone who doesn't know any better.\r\nEither size will work for most applications. The 4500 isn't to… [+520 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Who What Wear"
+      },
+      "author": "Jamie Schneider",
+      "title": "Pamela Anderson's Beauty Journal Is About to Go Viral—She Gave Us the First Look",
+      "description": "Pamela Anderson gave us a first look at her most recent Open Journal entry, which discusses her beauty philosophy. Read the sneak peek here before anyone else.",
+      "url": "https://www.whowhatwear.com/beauty/pamela-anderson-beauty-journal",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LCQTyHPYUExZS76D8GuPiD-1200-80.jpg",
+      "publishedAt": "2024-06-24T11:00:00Z",
+      "content": "At present, I'm watching Pamela Anderson quite literally radiate from my computer screen. She recently posted her very first skincare Reel\r\n in honor of her brand Sonsie's first birthday, gracing us … [+3310 chars]"
+    }
+    
+]
+}

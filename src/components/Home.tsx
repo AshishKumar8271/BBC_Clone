@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useAppSelector,useAppDispatch } from "../hooks";
-import { fetchNewsData, getNewsDetails } from "../Features/NewsSlice";
+import { fetchNewsData, getNewsDetails, setLoadingTrue } from "../Features/NewsSlice";
 import { Link } from "react-router-dom";
 import { doc, setDoc } from "firebase/firestore";
 import { db } from "../firebase/setup";
@@ -11,7 +11,10 @@ const Home = () => {
   const dispatch = useAppDispatch();
 
   useEffect(() => {
-    dispatch(fetchNewsData(menu));
+    dispatch(setLoadingTrue());
+    setTimeout(() => {
+      dispatch(fetchNewsData(menu));
+    },1500);
   },[dispatch,menu]);
 
   const addNewsToStore = async(data:any) => {

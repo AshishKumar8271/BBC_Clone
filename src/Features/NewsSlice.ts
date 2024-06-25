@@ -1,4 +1,5 @@
 import { createSlice,createAsyncThunk } from "@reduxjs/toolkit";
+import { toast } from "react-toastify";
 
 
 interface NewsState {
@@ -20,20 +21,20 @@ const initialState:NewsState = {
 }
 
 export const fetchNewsData = createAsyncThunk("user/fetchNewsData",async (menu:string) => {
-
-    const res = await fetch(`https://newsapi.org/v2/everything?q=${menu}&pageSize=100&apiKey=${import.meta.env.VITE_NEWS_API_KEY}`, {
-        method: 'GET',
-        headers: {
-          'Accept': 'application/json'
+    try {
+        const res = await fetch('/data.json');
+        const data = await res.json();
+    
+        if (menu.toLowerCase() !== 'all') {
+          return data.articles.filter((ele:any) =>
+            ele.content.toLowerCase().includes(menu.toLowerCase())
+          );
         }
-      });
-
-    if(!res.ok) {
-        throw new Error("Network Response was not ok");
-    }
-    const data = await res.json();
-    console.log(data.articles);
-    return data.articles;
+    
+        return data.articles;
+      } catch (err:any) {
+        throw new Error("Network error. Please try again");
+      }
 })
 
 const newsSlice = createSlice({
@@ -51,6 +52,9 @@ const newsSlice = createSlice({
         getNewsDetails: (state,action) => {
             state.singleNews = action.payload;
             window.localStorage.setItem("news",JSON.stringify(state.singleNews));
+        },
+        setLoadingTrue: (state) => {
+            state.loading = true;
         }
     },
     extraReducers: (builder) => {
@@ -64,11 +68,11 @@ const newsSlice = createSlice({
 
         builder.addCase(fetchNewsData.rejected,(state,action) => {
             state.loading = false;
-            state.error = action.error.message || "Something went wrong";
+            toast.error(action.error.message);
         });
     }
 });
 
-export const {setMenu,getSearchNews,getNewsDetails} = newsSlice.actions;
+export const {setMenu,getSearchNews,getNewsDetails,setLoadingTrue} = newsSlice.actions;
 
 export default newsSlice.reducer;
