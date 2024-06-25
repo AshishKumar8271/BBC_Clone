@@ -20,7 +20,7 @@ const initialState:NewsState = {
 }
 
 export const fetchNewsData = createAsyncThunk("user/fetchNewsData",async (menu:string) => {
-    const res = await fetch(`https://newsapi.org/v2/everything?q=${menu}&pageSize=100&apiKey=1d23c25bef164d55a4cc39709db1d27b`);
+    const res = await fetch(`https://newsapi.org/v2/everything?q=${menu}&pageSize=100&apiKey=${import.meta.env.VITE_News_API_KEY}`);
     if(!res.ok) {
         throw new Error("Network Response was not ok");
     }
