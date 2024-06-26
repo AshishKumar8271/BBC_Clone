@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { addDoc, collection, doc, getDocs } from "firebase/firestore";
+import { addDoc, collection, doc, getDocs, orderBy, query, serverTimestamp } from "firebase/firestore";
 import { auth, db } from "../firebase/setup";
 import { toast } from "react-toastify";
 
@@ -16,6 +16,7 @@ const CommentBox = ({news}: {news:any}) => {
         try {
             auth.currentUser && await addDoc(commentRef, {
                 comment: comment,
+                createdAt: serverTimestamp(),
                 name: auth.currentUser.displayName as string,
             })
         } catch (err) {
@@ -39,8 +40,9 @@ const CommentBox = ({news}: {news:any}) => {
     const showComments = async () => {
         const newsDoc = doc(db, 'news', news.publishedAt);
         const commentRef = collection(newsDoc, 'Comments');
+        const commentQuery = query(commentRef,orderBy('createdAt','desc'));
         try {
-            const data = await getDocs(commentRef);
+            const data = await getDocs(commentQuery);
             const filterdData = data.docs.map((doc) => ({
                 ...doc.data(),
                 id: doc.id,

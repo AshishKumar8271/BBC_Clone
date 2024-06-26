@@ -14,7 +14,7 @@ const Home = () => {
     dispatch(setLoadingTrue());
     setTimeout(() => {
       dispatch(fetchNewsData(menu));
-    },1500);
+    },1000);
   },[dispatch,menu]);
 
   const addNewsToStore = async(data:any) => {

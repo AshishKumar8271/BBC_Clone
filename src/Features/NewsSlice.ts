@@ -8,7 +8,6 @@ interface NewsState {
     newsData:any[],
     searchData:any[],
     error:string | null,
-    singleNews: any | null,
 }
 
 const initialState:NewsState = {
@@ -17,7 +16,6 @@ const initialState:NewsState = {
     newsData:[],
     searchData:[],
     error: "",
-    singleNews:null,
 }
 
 export const fetchNewsData = createAsyncThunk("user/fetchNewsData",async (menu:string) => {
@@ -50,8 +48,8 @@ const newsSlice = createSlice({
             console.log(state.searchData);
         },
         getNewsDetails: (state,action) => {
-            state.singleNews = action.payload;
-            window.localStorage.setItem("news",JSON.stringify(state.singleNews));
+            window.localStorage.setItem("news",JSON.stringify(action.payload));
+            state.loading = false;
         },
         setLoadingTrue: (state) => {
             state.loading = true;
