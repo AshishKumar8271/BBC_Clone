@@ -8,6 +8,7 @@ interface NewsState {
     newsData:any[],
     searchData:any[],
     error:string | null,
+    valueOfMenu: string,
 }
 
 const initialState:NewsState = {
@@ -16,6 +17,7 @@ const initialState:NewsState = {
     newsData:[],
     searchData:[],
     error: "",
+    valueOfMenu:"",
 }
 
 export const fetchNewsData = createAsyncThunk("user/fetchNewsData",async (menu:string) => {

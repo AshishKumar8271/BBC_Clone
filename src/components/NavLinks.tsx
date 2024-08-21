@@ -1,6 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import { setMenu } from "../Features/NewsSlice";
 import { useAppDispatch } from "../hooks";
+
 const NavLinks = () => {
   const navigate = useNavigate();
   const dispatch = useAppDispatch();
@@ -10,6 +11,7 @@ const NavLinks = () => {
     if(valueOfMenu == "Home") {
       valueOfMenu = "All";
     }
+    
     navigate("/");
     dispatch(setMenu(valueOfMenu));
   }
